@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1952-three-divisors) |
 | [2951-find-the-peaks](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2951-find-the-peaks) |
 ## Math
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2413-smallest-even-multiple) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2413-smallest-even-multiple) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
