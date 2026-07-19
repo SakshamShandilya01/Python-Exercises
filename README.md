@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0219-contains-duplicate-ii) |
+| [1773-count-items-matching-a-rule](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1929-concatenation-of-array) |
 | [2951-find-the-peaks](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2951-find-the-peaks) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [1773-count-items-matching-a-rule](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1773-count-items-matching-a-rule) |
 <!---LeetCode Topics End-->
