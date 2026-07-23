@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0067-add-binary) |
 | [0223-rectangle-area](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0223-rectangle-area) |
 | [0415-add-strings](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0504-base-7) |
 | [0836-rectangle-overlap](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0836-rectangle-overlap) |
 | [1952-three-divisors](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2413-smallest-even-multiple) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0504-base-7) |
 | [1773-count-items-matching-a-rule](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1773-count-items-matching-a-rule) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
