@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0067-add-binary) |
 | [0223-rectangle-area](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0223-rectangle-area) |
 | [0415-add-strings](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0415-add-strings) |
+| [0836-rectangle-overlap](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0836-rectangle-overlap) |
 | [1952-three-divisors](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2413-smallest-even-multiple) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -85,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0223-rectangle-area) |
+| [0836-rectangle-overlap](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
